@@ -14,6 +14,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 ---
 
 ## 1. ADDITION
+<img width="611" height="426" alt="EX 1 ADD" src="https://github.com/user-attachments/assets/2f9b1703-e34d-4409-8487-ba410582bda8" />
 
 #### Algorithm
 
