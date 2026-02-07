@@ -169,6 +169,8 @@ END
 |                         |                          |
 
 #### Manual Calculations
+![m](https://github.com/user-attachments/assets/7ee26f6d-3028-46f6-90c7-40204f51acbc)
+
 
 (Add your calculation here)
 
@@ -217,6 +219,7 @@ END
 |                         |                          |
 
 #### Manual Calculations
+![s](https://github.com/user-attachments/assets/6428dc7d-497d-45be-b5fd-f8c5d18e78c3)
 
 (Add your calculation here)
 
